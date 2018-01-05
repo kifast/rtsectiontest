@@ -1,3 +1,6 @@
+年末带你观赏github系列1 逃避内存扫描
+
+
 # rtsectiontest
 An Attempt to Bypass Memory Scanners By Misusing the ntdll.dll "RT" Section.
 
